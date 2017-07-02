@@ -4,9 +4,10 @@ link to the competition: https://www.hackerearth.com/challenge/competitive/machi
 Tools Used: Jupyter Notebook, python2.  
 Library Used: numpy, pandas, matplotlib, seaborn, sklearn, xgboost.  
 
-Preprocessing: Same as given in the demoscript with slight changes.  
+Preprocessing: Same as given in the demoscript with slight changes. 
 1. Rotated AngleOfSign.
 2. Applied sin/cos function on AngleOfSign to tune params.
+3. Performed One-Hot Encoding on DetectedCamera
 
 Final Model Used: 
 ## XGBoost
