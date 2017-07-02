@@ -26,6 +26,6 @@ Final Model Used:
     'num_class':4,'lambda':7  
     I've tuned these parameters using GridSearchCV.  
     
-Final-Score on Leaderboard=99.90110
+Final-Score on the Leaderboard=99.90110
 
 Refer Notebook for more details.
