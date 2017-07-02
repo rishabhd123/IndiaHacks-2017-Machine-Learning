@@ -1,7 +1,7 @@
 # Predict the Segment - Hotstar  
 link to the competition: https://www.hackerearth.com/challenge/competitive/machine-learning-indiahacks-2017/machine-learning/predict-the-segment-hotstar/  
 Tools Used: Jupyter Notebook, python2.  
-Library Used: numpy, pandas, matplotlib, seaborn, sklearn, xgboost.  
+Library Used: numpy, pandas, matplotlib, seaborn, re, sklearn, xgboost.  
 
 Preprocessing: Same as given in the demoscript with slight changes.
 1. Performed One-Hot Encoding
